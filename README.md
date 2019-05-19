@@ -3,7 +3,7 @@ Simple typography LESS mixin with modularscale
 
 <a href=“#usage”></a>
 ## Usage
-**Input** (with default `@major-third` and `16px`)
+**Input**
 
     h1 {
       .fontSize(6);
@@ -13,7 +13,7 @@ Simple typography LESS mixin with modularscale
       .fontSize(5);
     }
     
-**Output**
+**Output** (with default `@major-third` and `16px`)
 
     h1 {
       font-size: 61.03515625px;
