@@ -25,7 +25,7 @@ Simple typography LESS mixin with modularscale
 
 <a href=“#thanks”></a>
 ## Thanks to ...
-[Changing Modular Scale Ratio at Different Breakpoints](https://zellwk.com/blog/changing-modular-scale/) for the formula :) And the [type-scale.com](https://type-scale.com/) and [modularscale.com](https://www.modularscale.com) for the scale.
+Zell Liew's article [Changing Modular Scale Ratio at Different Breakpoints](https://zellwk.com/blog/changing-modular-scale/) for the formula :) And the [type-scale.com](https://type-scale.com/) and [modularscale.com](https://www.modularscale.com) for the scale.
 
 <a href=“#license”></a>
 ## License
